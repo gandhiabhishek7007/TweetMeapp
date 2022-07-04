@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: TweetApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 885124
+Implementation-Vendor-Id: com.tweetapp
+Build-Jdk: 1.8.0_291
+Implementation-URL: https://spring.io/projects/spring-boot/TweetApp
+Created-By: Maven Integration for Eclipse
+
